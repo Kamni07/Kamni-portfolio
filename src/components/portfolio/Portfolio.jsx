@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 
 
 const data =[
@@ -26,6 +27,13 @@ const data =[
     title: 'Guarder',
     github: 'https://github.com/Kamni07/guarder-template',
     demo: 'https://guarder-template.vercel.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'E-commerce',
+    github: 'https://github.com/Kamni07/e-commerce',
+    demo: 'https://e-commerce-gray-three.vercel.app/'
   },
 ]
 
